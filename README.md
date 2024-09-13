@@ -28,7 +28,12 @@
 
 
 
-   <img src="https://evanhalley.dev/images/malcolm_x_slamming_table.gif" height=80% width=100% align="right">
+<img src="https://evanhalley.dev/images/malcolm_x_slamming_table.gif" height=80% width=100% align="right">
+
+
+
+
+
 
 ### Find me on 
 
