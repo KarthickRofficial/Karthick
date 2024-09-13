@@ -2,13 +2,11 @@
 
 ### I'm a...   <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height=15% width=40% align="right"> 
 
-<img src="https://www.freecodecamp.org/news/content/images/2022/09/githubDownload-1.png" height=15% width=40% align="right">
-
 * Future Data Scientist 
 * Deep Learning in Medical Image Processing and Analysis Paper Author
 * Self-Taught Coder
 * Demanding Perfectionist
-  
+  <img src="https://www.freecodecamp.org/news/content/images/2022/09/githubDownload-1.png" height=60% width=40% align="right">
 🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/hirthicksofficial)<br>
 📬 How to reach me: [Karthigaikumaroffical@gmail.com](mailto:Karthigaikumaroffcial@gmail.com)<br>
 📝 [Resume](https://github.com/Hirthick6/RESUME/blob/main/Karthick%20official.pdf)<br>
